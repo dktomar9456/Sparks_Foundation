@@ -1,3 +1,22 @@
+<h1> Hosted at :https://dktomar9456.github.io/Sparks_Foundation/</h1>
+
+<h1> Screenshots</h1>
+<h3> 1: Home Page</h3>
+<img width="80%" src="https://user-images.githubusercontent.com/68142928/195335706-443a69bc-f0e3-49b2-a7f2-1405d4ef2e33.png"/>
+<br/>
+
+<h3> 2: Custumer's Data</h3>
+<img width="80%" src="https://user-images.githubusercontent.com/68142928/195335968-021bf7e6-6920-4334-9da6-8dcf7ac1f167.png"/>
+<br/>
+
+<h3> 3: Transaction Form</h3>
+<img width="80%" src="https://user-images.githubusercontent.com/68142928/195336221-60be5a9a-f882-4aa8-832c-2d8221d4e8ff.png"/>
+<br/>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
